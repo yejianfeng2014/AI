@@ -10,6 +10,8 @@
     默认接口8080 tomcat 会使用该接口。
     算法占用54321端口。
     
+    https://github.com/h2oai/h2o-3.git
+    
     https://www.coursera.org/lecture/neural-networks-deep-learning/welcome-Cuf2f
     
     https://wenku.baidu.com/view/1b8ec1cedb38376baf1ffc4ffe4733687e21fca1.html
