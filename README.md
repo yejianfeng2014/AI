@@ -27,3 +27,6 @@ https://github.com/xuanyuansen/scalaLSTM
 
 
 
+http://zh.gluon.ai/chapter_deep-learning-computation/model-construction.html#%E6%9E%84%E9%80%A0%E5%A4%8D%E6%9D%82%E7%9A%84%E6%A8%A1%E5%9E%8B
+
+
