@@ -23,7 +23,7 @@
     
     
     https://blog.csdn.net/zchang81/article/details/78431570(吴)
-
+https://github.com/xuanyuansen/scalaLSTM
 
 
 
