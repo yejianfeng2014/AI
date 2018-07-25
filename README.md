@@ -32,4 +32,6 @@ http://zh.gluon.ai/chapter_deep-learning-computation/model-construction.html#%E6
 
 https://github.com/sunbow1/SparkMLlibDeepLearn
 
+http://keras-cn.readthedocs.io/en/latest/for_beginners/concepts/
+
 
