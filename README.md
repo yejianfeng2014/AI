@@ -39,3 +39,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 https://blog.csdn.net/qq_31780525/article/details/71513580
 
 https://blog.csdn.net/qq_35273499/article/details/80656809
+
+
+https://github.com/vipstone/faceai
+
