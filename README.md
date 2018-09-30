@@ -29,6 +29,8 @@ https://github.com/xuanyuansen/scalaLSTM
 
 http://zh.gluon.ai/chapter_deep-learning-computation/model-construction.html#%E6%9E%84%E9%80%A0%E5%A4%8D%E6%9D%82%E7%9A%84%E6%A8%A1%E5%9E%8B
 
+https://docs.google.com/presentation/d/e/2PACX-1vQ6DzxNTBrJo7K5P8t5_rBRGnyJoPUPBVOJR4ooHCwi4TlBFnIriFmI719rDNpcQzojqsV58aUqmBBx/pub?start=false&loop=false&delayms=3000&slide=id.g306175dd89_0_196
+
 
 https://github.com/sunbow1/SparkMLlibDeepLearn
 
