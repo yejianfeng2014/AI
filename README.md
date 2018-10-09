@@ -49,3 +49,5 @@ https://www.tensorflow.org/tutorials/
 
 
 https://www.tensorflow.org/ecosystem/
+
+https://www.kaggle.com/c/digit-recognizer/kernels?
