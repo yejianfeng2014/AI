@@ -51,5 +51,5 @@ https://www.tensorflow.org/tutorials/
 https://www.tensorflow.org/ecosystem/
 
 https://www.kaggle.com/c/digit-recognizer/kernels?
-
+ 25个数据集
 https://blog.csdn.net/yllifesong/article/details/81032779
